@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=GrayHatPhantom&color=lightgray">
    <img src="https://img.shields.io/static/v1?label=&message=Defacer&color=red">
-   <img src="https://img.shields.io/static/v1?label=&message=BugHunter&color=green"><br><br>
+   <img src="https://img.shields.io/static/v1?label=&message=BugHunter&color=green">
+   <img src="https://img.shields.io/static/v1?label=&message=Developer&color=orange"><br><br>
 </p>
 
 <h3 align="left">I'm Currently Working on:</h3>
